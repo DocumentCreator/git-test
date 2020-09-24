@@ -13,5 +13,6 @@ public class FirstClass {
 
     public void teset(){
         int i = 50;
+        System.out.println("i");
     }
 }
